@@ -1,0 +1,20 @@
+¿Qué significa la sigla "IP" en redes?
+Internet Protocol
+Internet Provider
+Internal Process
+Information Pathway
+¿Cuál es la principal función de un servidor DNS en una red?
+Traducir nombres de dominio a direcciones IP
+Enviar correos electrónicos
+Interviene en las funciones de enrutado
+Proporcionar conectividad Wi-Fi
+¿Cuál es la función de una CDN (Content Delivery Network)?
+Distribuir contenido a los usuarios de manera rápida y eficiente.
+Monitorizar el tráfico de la red
+Proteger la red de ataques DDoS
+Almacenar copias de seguridad de los datos
+¿Qué es el "balanceo de carga" en redes?
+Distribuir el tráfico de red entre varios servidores para asegurar la eficiencia y fiabilidad
+Reducir el uso de ancho de banda
+Incrementar la velocidad de la conexión a internet
+Monitorizar el tráfico de la red

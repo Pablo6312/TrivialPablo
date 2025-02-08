@@ -1,0 +1,30 @@
+¿Quién es considerado el padre de la computación moderna?
+Alan Turing
+Steve Jobs
+Bill Gates
+Mark Zuckerberg
+¿Cuál fue el primer lenguaje de programación de alto nivel?
+Fortran
+COBOL
+BASIC
+C
+¿Quién inventó el primer motor de búsqueda en Internet?
+Alan Emtage
+Tim Berners-Lee
+Larry Page y Sergey Brin
+Marc Andreessen
+¿Qué empresa desarrolló el primer microprocesador?
+Intel
+IBM
+AMD
+Nvidia
+¿Qué sistema operativo es conocido por ser el primer sistema operativo gráfico?
+Xerox PARC's Alto
+Windows 95
+Mac OS
+Linux
+¿En qué año se envió el primer correo electrónico?
+1971
+1965
+1983
+1990
